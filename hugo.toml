@@ -11,16 +11,10 @@ title = "Michele Mucci"
 weight = 10
 
 [[languages.en.menu.main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = 10
-
-[[languages.en.menu.main]]
 identifier = "info"
 name = "Info"
-url = "#info"
-weight = 20
+url = "/"
+weight = 10
 
 [[languages.en.menu.main]]
 identifier = "clients"

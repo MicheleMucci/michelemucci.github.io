@@ -17,12 +17,23 @@ paige:
     * {
         text-align: center
     }
+    #landing {
+        height: 85vh
+    }
 title: "Michele Mucci"
 ---
+
+<!-- <div id="landing"> -->
 
 <a id="info" href="#info"></a>
 
 <p class="display-5 fw-bold h2 text-center">Mix & Mastering Studio</p>
+
+<br>
+
+<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="30rem" loading="eager" process="webp" src="https://images.unsplash.com/photo-1490604001847-b712b0c2f967?w=1296" width="100%" %}}</p>
+
+<br>
 
 <div class="container-fluid">
     <div class="justify-content-center row">
@@ -34,11 +45,14 @@ title: "Michele Mucci"
     </div>
 </div>
 
-<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://images.unsplash.com/photo-1490604001847-b712b0c2f967?w=1296" width="100%" %}}</p>
+<!-- </div> -->
 
 ---
 
+</br></br>
+
 <p class="display-6 fw-bold h2" id="clients">Clients & Labels</p>
+</br></br>
 
 <div class="container-fluid">
     <div class="justify-content-center row">
@@ -113,10 +127,12 @@ Wajad,
 Seabrinde,
 Mariel,
 Filippo Selde
-            </p>
-        </div>
-    </div>
+</p>
 </div>
+</div>
+</div>
+
+</br></br>
 
 ---
 
