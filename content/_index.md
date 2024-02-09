@@ -31,15 +31,18 @@ title: "Michele Mucci"
 
 <br>
 
-<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="30rem" loading="eager" process="webp" src="https://images.unsplash.com/photo-1490604001847-b712b0c2f967?w=1296" width="100%" %}}</p>
+<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="30rem" loading="eager" process="webp" src="/michele.png" width="100%" %}}</p>
 
 <br>
 
 <div class="container-fluid">
     <div class="justify-content-center row">
-        <div class="col col-auto col-lg-7 px-0">
+        <div class="col col-auto col-lg-8 px-0">
             <p class="lead text-center">
-            Professional producer, sound engineer and mastering engineer.
+            Professional mastering and sound engineer. Born in Milano, I moved to Berlin and graduated in Sound Engineering at Catalyst Institute. 
+            Nowadays I am a full time audio engineer, specialized in mixing, mastering and post production for musicians, 
+            record labels, documentaries, the film and the advertisement industry.
+            I am currently running a Mixing and Mastering studio in Berlin, west side, working with different clients and artists, both worldwide and in the Berlin music scene. 
             </p>
         </div>
     </div>
@@ -140,9 +143,45 @@ Filippo Selde
 </br>
 </br>
 
+<p class="display-6 fw-bold h2 text-center" id="services">Services</p>
+
+</br>
+
+<div class="container-fluid">
+    <div class="justify-content-center row">
+        <div class="col col-auto col-lg-7 px-0">
+            <p class="lead">
+Mastering for Digital and Vinyl Distribution •
+Mixing •
+Mixing and Mastering for the Film Industry, Advertisement and Documentaries •
+Studio Recording •
+Voiceover Recording •
+Podcast Post-Production •
+Professional Consultancy in Audio Engineering 
+</p>
+</div>
+</div>
+</div>
+
+</br>
+</br>
+</br>
+
+---
+
+</br>
+</br>
+</br>
+
 <p class="display-6 fw-bold h2 text-center" id="contact">Contact</p>
 
-michelemucci.info at gmail.com
+</br>
+
+For enquires and informations about provided services and fees, please contact me at
+
+</br>
+
+[info@michelemucci.net](mailto:info@michelemucci.net)
 
 <div style="">
 

@@ -23,6 +23,12 @@ url = "#clients"
 weight = 30
 
 [[languages.en.menu.main]]
+identifier = "services"
+name = "Services"
+url = "#services"
+weight = 30
+
+[[languages.en.menu.main]]
 identifier = "contact"
 name = "Contact"
 url = "#contact"
