@@ -31,7 +31,7 @@ title: "Michele Mucci"
 
 <br>
 
-<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="30rem" loading="eager" process="webp" src="/michele.png" width="100%" %}}</p>
+<p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="30rem" loading="eager" process="webp" src="/michele.png" width="100%" %}}</p>
 
 <br>
 
