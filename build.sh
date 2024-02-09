@@ -1,0 +1,1 @@
+hugo && rm -rf docs && cp -r public docs && cp static/CNAME docs/CNAME && git add -A && git commit -m "$(date)" && git push
