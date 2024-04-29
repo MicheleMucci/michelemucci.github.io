@@ -39,10 +39,7 @@ title: "Michele Mucci"
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-8 px-0">
             <p class="lead text-center">
-            Professional mastering and sound engineer. Born in Milano, I moved to Berlin and graduated in Sound Engineering at Catalyst Institute. 
-            Nowadays I am a full time audio engineer, specialized in mixing, mastering and post production for musicians, 
-            record labels, documentaries, the film and the advertisement industry.
-            I am currently running a Mixing and Mastering studio in Berlin, west side, working with different clients and artists, both worldwide and in the Berlin music scene. 
+            I am a professional mastering and sound engineer. Born in Milan, I moved to Berlin and graduated in Sound Engineering at Catalyst Institute. I am a full-time audio engineer specializing in mixing, mastering, and post-production for musicians, record labels, documentaries, film, and the advertising industry. I currently operate a Mixing and Mastering studio in Berlin, working with various clients and artists, both worldwide and in the Berlin music scene. 
             </p>
         </div>
     </div>
