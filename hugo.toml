@@ -42,6 +42,7 @@ noclasses = false
 
 
 [paige]
+color_scheme = "light"
 color = "#00aidef" # Bootstrap primary color and theme color for Safari and Windows
 external_link_new_tab = false # Open external links in new tabs
 math = false # Enable math typesetting
