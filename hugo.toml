@@ -41,13 +41,12 @@ unsafe = true
 noclasses = false
 
 
-[paige]
-color_scheme = "light"
-color = "#00aidef" # Bootstrap primary color and theme color for Safari and Windows
+[params.paige]
+color = "#000000" # Bootstrap primary color and theme color for Safari and Windows
+color_scheme = "light" # Must be "auto", "dark", or "light"
 external_link_new_tab = false # Open external links in new tabs
 math = false # Enable math typesetting
-style = "" # CSS included at the end of the stylesheet, before style-last.css
-
+#style = "" # CSS included at the end of the stylesheet, before style-last.css
 
 [[module.imports]]
 path = "github.com/willfaught/paige"
