@@ -32,7 +32,7 @@ title: "Michele Mucci"
 <br>
 <br>
 
-<p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover rounded-4 animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-1.jpg" width="90%" %}}</p>
+<p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover rounded-4 animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-1.jpg" width="88%" %}}</p>
 
 <br>
 
