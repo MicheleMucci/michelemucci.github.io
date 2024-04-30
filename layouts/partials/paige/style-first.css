@@ -16,4 +16,14 @@
     display: none;
 }
 
+body, html {
+    font-family: 'Inter', sans-serif;
+    /* font-size:x-large; */
+}
+h1, h2, h3, h4 {
+    text-transform: uppercase;
+}
 
+.nav-item {
+    text-transform: uppercase;
+}
