@@ -12,7 +12,7 @@ paige:
         display: none;
     }
     #paige-title {
-        font-size: 4rem;
+        font-size: 6rem;
     }
     * {
         text-align: center
@@ -27,11 +27,12 @@ title: "Michele Mucci"
 
 <a id="info" href="#info"></a>
 
-<p class="display-5 fw-bold h2 text-center">Mix & Mastering Studio</p>
+<h3 class="display-5 h2 text-center animate__animated animate__fadeInDown">Mix & Mastering Studio</h3>
 
 <br>
+<br>
 
-<p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="40rem" loading="eager" process="webp" src="/michele-1.jpg" width="90%" %}}</p>
+<p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover rounded-4 animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-1.jpg" width="90%" %}}</p>
 
 <br>
 
@@ -51,7 +52,7 @@ title: "Michele Mucci"
 
 </br></br>
 
-<p class="display-6 fw-bold h2" id="clients">Clients & Labels</p>
+<h2 class="display-6 fw-bold h2" id="clients">Clients & Labels</h2>
 </br></br>
 
 <div class="container-fluid">
@@ -141,7 +142,7 @@ Filippo Selde
 </br>
 </br>
 
-<p class="display-6 fw-bold h2 text-center" id="services">Services</p>
+<h2 class="display-6 fw-bold h2 text-center" id="services">Services</h2>
 
 </br>
 
@@ -171,7 +172,7 @@ Professional Consultancy in Audio Engineering
 </br>
 </br>
 
-<p class="display-6 fw-bold h2 text-center" id="contact">Contact</p>
+<h2 class="display-6 fw-bold h2 text-center" id="contact">Contact</h2>
 
 </br>
 
