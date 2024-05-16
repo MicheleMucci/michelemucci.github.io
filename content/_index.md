@@ -32,14 +32,14 @@ title: "Michele Mucci"
 <br>
 <br>
 
-<p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover rounded-4 animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-1.jpg" width="88%" %}}</p>
+<p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center rounded-4 animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-1.jpg" width="88%" %}}</p>
 
 <br>
 
 <div class="container-fluid">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-8 px-0">
-            <p class="lead text-center">
+            <p class="lead" style="text-align: left">
             I am a professional mastering and sound engineer. Born in Milan, I moved to Berlin and graduated in Sound Engineering at Catalyst Institute. I am a full-time audio engineer specializing in mixing, mastering, and post-production for musicians, record labels, documentaries, film, and the advertising industry. I currently operate a Mixing and Mastering studio in Berlin, working with various clients and artists, both worldwide and in the Berlin music scene. 
             </p>
         </div>
@@ -58,7 +58,7 @@ title: "Michele Mucci"
 <div class="container-fluid">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
-            <p class="">
+            <p class="" style="text-align: left">
 Chris Baumann,
 Rico Casazza,
 Orlando Voorn,
@@ -149,14 +149,14 @@ Filippo Selde
 <div class="container-fluid">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
-            <p class="lead">
-Mastering for Digital and Vinyl Distribution •
-Mixing •
-Mixing and Mastering for the Film Industry, Advertisement and Documentaries •
-Studio Recording •
-Voiceover Recording •
-Podcast Post-Production •
-Professional Consultancy in Audio Engineering 
+            <p class="lead" style="text-align: left">
+• Mastering for Digital and Vinyl Distribution <br/>
+• Mixing <br/>
+• Mixing and Mastering for the Film Industry, Advertisement and Documentaries <br/>
+• Studio Recording <br/>
+• Voiceover Recording <br/>
+• Podcast Post-Production <br/>
+• Professional Consultancy in Audio Engineering <br/>
 </p>
 </div>
 </div>
