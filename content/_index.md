@@ -31,7 +31,6 @@ title: "Michele Mucci"
 
 
 <br>
-<br>
 
 <div class="justify-content-center row" style="width: 100vw; margin-left: 0px; margin-right: 0px">
     <div class="col col-auto col-lg-8 col-sm-12 px-0" >
@@ -52,14 +51,14 @@ title: "Michele Mucci"
 
 <!-- </div> -->
 
-</br></br>
+</br>
 
 
 <div style="background-color: #000; color: #fff; width: 100vw" class="animate__animated">
 <h2 class="display-6 fw-bold h2 py-3" id="clients">Clients</h2>
 </div>
 
-</br></br>
+</br>
 
 <div class="container-fluid">
     <div class="justify-content-center row">
@@ -145,15 +144,12 @@ Watermarxxx
 </div>
 </div>
 
-</br></br>
-
-
 </br>
+
 
 <div style="background-color: #000; color: #fff; width: 100vw" class="animate__animated">
 <h2 class="display-6 fw-bold h2 py-3" id="services">Services</h2>
 </div>
-</br>
 </br>
 
 
@@ -174,18 +170,6 @@ Watermarxxx
 </div>
 </div>
 </br>
-</br>
-
-<div class="justify-content-center row" style="width: 100vw; margin-left: 0px; margin-right: 0px">
-    <div class="col col-auto col-lg-8 col-sm-12 px-0" >
-    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center  animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-2.jpg" width="100%"%}}</p>
-    </div>
-</div>
-<br>
-
-</br>
-</br>
-
 
 
 <div style="background-color: #000; color: #fff; width: 100vw" class="animate__animated">
@@ -212,6 +196,17 @@ Watermarxxx
 </div>
 </div>
 </div>
+
+</br>
+</br>
+
+<div class="justify-content-center row my-0 py-0" style="width: 100vw; margin-left: 0px; margin-right: 0px">
+    <div class="col col-auto col-lg-8 col-sm-12 px-0">
+    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-2.jpg" width="100%"%}}</p>
+    </div>
+</div>
+
+
 
 
 <div style="">
