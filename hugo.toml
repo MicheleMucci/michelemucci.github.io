@@ -18,7 +18,7 @@ weight = 10
 
 [[languages.en.menu.main]]
 identifier = "clients"
-name = "Clients & Labels"
+name = "Clients"
 url = "#clients"
 weight = 30
 

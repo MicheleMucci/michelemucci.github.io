@@ -29,14 +29,18 @@ title: "Michele Mucci"
 
 <h3 class="display-5 h2 text-center animate__animated animate__fadeInDown">Mix & Mastering Studio</h3>
 
-<br>
-<br>
-
-<p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center rounded-4 animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-1.jpg" width="88%" %}}</p>
 
 <br>
+<br>
 
-<div class="container-fluid">
+<div class="justify-content-center row">
+    <div class="col col-auto col-lg-8 col-sm-12 px-0">
+    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center rounded-4 animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-1.jpg" width="100%" %}}</p>
+    </div>
+</div>
+<br>
+
+<div class="container-fluid animate__animated animate__fadeInUp">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-8 px-0">
             <p class="lead" style="text-align: left">
@@ -48,17 +52,19 @@ title: "Michele Mucci"
 
 <!-- </div> -->
 
----
-
 </br></br>
 
-<h2 class="display-6 fw-bold h2" id="clients">Clients & Labels</h2>
+
+<div style="background-color: #000; color: #fff; width: 100vw" class="animate__animated">
+<h2 class="display-6 fw-bold h2 py-3" id="clients">Clients</h2>
+</div>
+
 </br></br>
 
 <div class="container-fluid">
     <div class="justify-content-center row">
-        <div class="col col-auto col-lg-7 px-0">
-            <p class="" style="text-align: left">
+        <div class="col col-auto col-lg-8 px-0">
+            <p class="lead" style="text-align: left">
 Chris Baumann,
 Rico Casazza,
 Orlando Voorn,
@@ -73,7 +79,6 @@ Alessandro Cheli,
 Doshka Bizer,
 Lo.Sai,
 Elliot K,
-Abba,
 Rakans,
 2easy2sayno,
 Music is Logic is Geometry,
@@ -127,7 +132,14 @@ Tiblo,
 Wajad,
 Seabrinde,
 Mariel,
-Filippo Selde
+Filippo Selde, 
+Posacenere Records, 
+Tommaso Launaro, 
+D’angelo, 
+Scola, 
+Enrico Dragoni, 
+Glenn Underground, 
+Watermarxxx
 </p>
 </div>
 </div>
@@ -135,20 +147,19 @@ Filippo Selde
 
 </br></br>
 
----
 
 </br>
-<p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="40rem" loading="eager" process="webp" src="/michele-2.jpg" width="90%" %}}</p>
+
+<div style="background-color: #000; color: #fff; width: 100vw" class="animate__animated">
+<h2 class="display-6 fw-bold h2 py-3" id="services">Services</h2>
+</div>
 </br>
 </br>
 
-<h2 class="display-6 fw-bold h2 text-center" id="services">Services</h2>
-
-</br>
 
 <div class="container-fluid">
     <div class="justify-content-center row">
-        <div class="col col-auto col-lg-7 px-0">
+        <div class="col col-auto col-lg-8 px-0">
             <p class="lead" style="text-align: left">
 • Mastering for Digital and Vinyl Distribution <br/>
 • Mixing <br/>
@@ -161,26 +172,46 @@ Filippo Selde
 </div>
 </div>
 </div>
-
-</br>
-</br>
-</br>
-
----
-
-</br>
 </br>
 </br>
 
-<h2 class="display-6 fw-bold h2 text-center" id="contact">Contact</h2>
+<div class="justify-content-center row">
+    <div class="col col-auto col-lg-8 col-sm-12 px-0">
+    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center rounded-4 animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-2.jpg" width="100%" %}}</p>
+    </div>
+</div>
+<br>
+
+</br>
+</br>
+
+
+
+<div style="background-color: #000; color: #fff; width: 100vw" class="animate__animated">
+<h2 class="display-6 fw-bold h2 py-3" id="contact">Contact</h2>
+</div>
+</br>
+</br>
+
+<div class="container-fluid">
+    <div class="justify-content-center row">
+        <div class="col col-auto col-lg-8 px-0">
+<h4>
+<b>For enquires and informations about provided services and fees, please contact me at</b>
+</h4>
 
 </br>
 
-For enquires and informations about provided services and fees, please contact me at
-
-</br>
+<h2> 
 
 [info@michelemucci.net](mailto:info@michelemucci.net)
+
+</h2>
+
+</div>
+</div>
+</div>
+
 
 <div style="">
 
