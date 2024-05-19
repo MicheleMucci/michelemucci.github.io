@@ -27,7 +27,7 @@ title: "Michele Mucci"
 
 <a id="info" href="#info"></a>
 
-<h3 class="display-5 h2 text-center animate__animated animate__fadeInDown">Mix & Mastering Studio</h3>
+<h3 class="display-5 h2 text-center animate__animated animate__fadeInDown px-16">Mix & Mastering Studio</h3>
 
 
 <br>
