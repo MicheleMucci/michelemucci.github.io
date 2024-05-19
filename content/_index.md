@@ -42,7 +42,7 @@ title: "Michele Mucci"
 
 <div class="container-fluid animate__animated animate__fadeInUp">
     <div class="justify-content-center row">
-        <div class="col col-auto col-lg-8 px-0">
+        <div class="col col-auto col-lg-8 px-16">
             <p class="lead" style="text-align: left">
             I am a professional mastering and sound engineer. Born in Milan, I moved to Berlin and graduated in Sound Engineering at Catalyst Institute. I am a full-time audio engineer specializing in mixing, mastering, and post-production for musicians, record labels, documentaries, film, and the advertising industry. I currently operate a Mixing and Mastering studio in Berlin, working with various clients and artists, both worldwide and in the Berlin music scene. 
             </p>
@@ -63,7 +63,7 @@ title: "Michele Mucci"
 
 <div class="container-fluid">
     <div class="justify-content-center row">
-        <div class="col col-auto col-lg-8 px-0">
+        <div class="col col-auto col-lg-8 px-16">
             <p class="lead" style="text-align: left">
 Chris Baumann,
 Rico Casazza,
@@ -159,11 +159,12 @@ Watermarxxx
 
 <div class="container-fluid">
     <div class="justify-content-center row">
-        <div class="col col-auto col-lg-8 px-0">
+        <div class="col col-auto col-lg-8 px-16">
             <p class="lead" style="text-align: left">
 • Mastering for Digital and Vinyl Distribution <br/>
 • Mixing <br/>
-• Mixing and Mastering for the Film Industry, Advertisement and Documentaries <br/>
+• Mixing and Mastering for the Film Industry <br/>
+• Audio Services for Advertisement and Documentaries <br/>
 • Studio Recording <br/>
 • Voiceover Recording <br/>
 • Podcast Post-Production <br/>
@@ -195,7 +196,7 @@ Watermarxxx
 
 <div class="container-fluid">
     <div class="justify-content-center row">
-        <div class="col col-auto col-lg-8 px-0">
+        <div class="col col-auto col-lg-8 px-16">
 <h4>
 <b>For enquires and informations about provided services and fees, please contact me at</b>
 </h4>
