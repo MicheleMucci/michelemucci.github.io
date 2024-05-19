@@ -33,9 +33,9 @@ title: "Michele Mucci"
 <br>
 <br>
 
-<div class="justify-content-center row">
-    <div class="col col-auto col-lg-8 col-sm-12 px-0">
-    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center rounded-4 animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-1.jpg" width="100%" %}}</p>
+<div class="justify-content-center row" style="width: 100vw; margin-left: 0px; margin-right: 0px">
+    <div class="col col-auto col-lg-8 col-sm-12 px-0" >
+    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center  animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-1.jpg" width="100%"%}}</p>
     </div>
 </div>
 <br>
@@ -176,9 +176,9 @@ Watermarxxx
 </br>
 </br>
 
-<div class="justify-content-center row">
-    <div class="col col-auto col-lg-8 col-sm-12 px-0">
-    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center rounded-4 animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-2.jpg" width="100%" %}}</p>
+<div class="justify-content-center row" style="width: 100vw; margin-left: 0px; margin-right: 0px">
+    <div class="col col-auto col-lg-8 col-sm-12 px-0" >
+    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center  animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-2.jpg" width="100%"%}}</p>
     </div>
 </div>
 <br>
