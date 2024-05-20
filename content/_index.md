@@ -65,6 +65,7 @@ title: "Michele Mucci"
         <div class="col col-auto col-lg-8 px-16">
             <p class="lead" style="text-align: left">
 Chris Baumann,
+Glenn Underground, 
 Rico Casazza,
 Orlando Voorn,
 Fuera,
@@ -137,7 +138,6 @@ Tommaso Launaro,
 D’angelo, 
 Scola, 
 Enrico Dragoni, 
-Glenn Underground, 
 Watermarxxx
 </p>
 </div>
