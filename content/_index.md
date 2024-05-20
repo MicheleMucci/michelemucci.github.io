@@ -206,11 +206,11 @@ Watermarxxx
     </div>
 </div>
 
-<div class="justify-content-center row my-0 py-0" style="width: 100vw; margin-left: 0px; margin-right: 0px">
+<!-- <div class="justify-content-center row my-0 py-0" style="width: 100vw; margin-left: 0px; margin-right: 0px">
     <div class="col col-auto col-lg-8 col-sm-12 px-0">
-    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-3.jpg" width="100%"%}}</p>
+    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center animate__animated animate__fadeInUp" fetchpriority="high" height="45rem" loading="eager" process="webp" src="/michele-3.jpg" width="100%"%}}</p>
     </div>
-</div>
+</div> -->
 
 <div class="justify-content-center row my-0 py-0" style="width: 100vw; margin-left: 0px; margin-right: 0px">
     <div class="col col-auto col-lg-8 col-sm-12 px-0">
