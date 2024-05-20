@@ -43,7 +43,7 @@ title: "Michele Mucci"
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-8 px-16">
             <p class="lead" style="text-align: left">
-            I am a professional mastering and sound engineer. Born in Milan, I moved to Berlin and graduated in Sound Engineering at Catalyst Institute. I am a full-time audio engineer specializing in mixing, mastering, and post-production for musicians, record labels, documentaries, film, and the advertising industry. I currently operate a Mixing and Mastering studio in Berlin, working with various clients and artists, both worldwide and in the Berlin music scene. 
+            Originally from Milan, I relocated to Berlin, where I graduated in Sound Engineering from the Catalyst Institute. I am a full-time audio engineer with expertise in mixing, mastering, and post-production for musicians, record labels, documentaries, films, and the advertising industry. I currently manage a Mixing and Mastering studio in Berlin, collaborating with a diverse range of clients and artists locally and internationally. 
             </p>
         </div>
     </div>
@@ -203,6 +203,18 @@ Watermarxxx
 <div class="justify-content-center row my-0 py-0" style="width: 100vw; margin-left: 0px; margin-right: 0px">
     <div class="col col-auto col-lg-8 col-sm-12 px-0">
     <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-2.jpg" width="100%"%}}</p>
+    </div>
+</div>
+
+<div class="justify-content-center row my-0 py-0" style="width: 100vw; margin-left: 0px; margin-right: 0px">
+    <div class="col col-auto col-lg-8 col-sm-12 px-0">
+    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-3.jpg" width="100%"%}}</p>
+    </div>
+</div>
+
+<div class="justify-content-center row my-0 py-0" style="width: 100vw; margin-left: 0px; margin-right: 0px">
+    <div class="col col-auto col-lg-8 col-sm-12 px-0">
+    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-4.jpg" width="100%"%}}</p>
     </div>
 </div>
 
