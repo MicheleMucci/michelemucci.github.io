@@ -11,14 +11,14 @@ paige:
     #paige-pages {
         display: none;
     }
-    #paige-title {
-        font-size: 6rem;
-    }
     * {
         text-align: center
     }
     #landing {
         height: 85vh
+    }
+    .align-crop-top {
+        object-position: right top;
     }
 title: "Michele Mucci"
 ---
@@ -34,7 +34,7 @@ title: "Michele Mucci"
 
 <div class="justify-content-center row" style="width: 100vw; margin-left: 0px; margin-right: 0px">
     <div class="col col-auto col-lg-8 col-sm-12 px-0" >
-    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center  animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-1.jpg" width="100%"%}}</p>
+    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover align-crop-top text-center  animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/new-mac-1.jpg" width="100%"%}}</p>
     </div>
 </div>
 <br>
@@ -157,7 +157,7 @@ Watermarxxx
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-8 px-16">
             <p class="lead" style="text-align: left">
-• Mastering for Digital and Vinyl Distribution <br/>
+• <b>Mastering</b> for Digital and Vinyl Distribution <br/>
 • Mixing <br/>
 • Mixing and Mastering for the Film Industry <br/>
 • Audio Services for Advertisement and Documentaries <br/>
@@ -188,9 +188,11 @@ Watermarxxx
 </br>
 
 <h2> 
+<b>
 
 [info@michelemucci.net](mailto:info@michelemucci.net)
 
+</b>
 </h2>
 
 </div>
@@ -202,7 +204,7 @@ Watermarxxx
 
 <div class="justify-content-center row my-0 py-0" style="width: 100vw; margin-left: 0px; margin-right: 0px">
     <div class="col col-auto col-lg-8 col-sm-12 px-0">
-    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-2.jpg" width="100%"%}}</p>
+    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center animate__animated animate__fadeInUp" fetchpriority="high" height="40rem" loading="eager" process="webp" src="/new-mac-2.jpg" width="100%"%}}</p>
     </div>
 </div>
 
@@ -214,7 +216,13 @@ Watermarxxx
 
 <div class="justify-content-center row my-0 py-0" style="width: 100vw; margin-left: 0px; margin-right: 0px">
     <div class="col col-auto col-lg-8 col-sm-12 px-0">
-    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center animate__animated animate__fadeInUp" fetchpriority="high" height="35rem" loading="eager" process="webp" src="/michele-4.jpg" width="100%"%}}</p>
+    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center animate__animated animate__fadeInUp" fetchpriority="high" height="40rem" loading="eager" process="webp" src="/new-mac-3.jpg" width="100%"%}}</p>
+    </div>
+</div>
+
+<div class="justify-content-center row my-0 py-0" style="width: 100vw; margin-left: 0px; margin-right: 0px">
+    <div class="col col-auto col-lg-8 col-sm-12 px-0">
+    <p>{{% paige/image alt="Michele Mucci" breakpoints=true class="object-fit-cover text-center animate__animated animate__fadeInUp" fetchpriority="high" height="40rem" loading="eager" process="webp" src="/new-mac-4.jpg" width="100%"%}}</p>
     </div>
 </div>
 
