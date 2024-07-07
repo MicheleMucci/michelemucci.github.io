@@ -27,7 +27,9 @@ title: "Michele Mucci"
 
 <a id="info" href="#info"></a>
 
+<div style="width: 90%; margin-left: auto; margin-right: auto">
 <h3 class="display-5 h2 text-center animate__animated animate__fadeInDown px-16">Audio & Sound Engineer</h3>
+</div>
 
 
 <br>
