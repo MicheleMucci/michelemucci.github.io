@@ -45,7 +45,7 @@ title: "Michele Mucci"
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-8 px-16">
             <p class="lead" style="text-align: left">
-            Originally from Milan, I relocated to Berlin, where I graduated in Sound Engineering from the Catalyst Institute. I am a full-time audio engineer with expertise in mixing, mastering, and post-production for musicians, record labels, documentaries, films, and the advertising industry. I currently manage a Mixing and Mastering studio in Berlin, collaborating with a diverse range of clients and artists locally and internationally. 
+            Originally from Milan, I relocated to Berlin, where I graduated in Sound Engineering from the Catalyst Institute. I am a full-time audio engineer with expertise in mixing, mastering, and post-production for musicians, record labels, documentaries, films, and the advertising industry. I currently manage a Mixing and Mastering studio in Berlin, collaborating with a diverse range of clients and artists locally and internationally.
             </p>
         </div>
     </div>
@@ -67,7 +67,7 @@ title: "Michele Mucci"
         <div class="col col-auto col-lg-8 px-16">
             <p class="lead" style="text-align: left">
 Chris Baumann,
-Glenn Underground, 
+Glenn Underground,
 Rico Casazza,
 Orlando Voorn,
 Fuera,
@@ -134,12 +134,12 @@ Tiblo,
 Wajad,
 Seabrinde,
 Mariel,
-Filippo Selde, 
-Posacenere Records, 
-Tommaso Launaro, 
-D’angelo, 
-Scola, 
-Enrico Dragoni, 
+Filippo Selde,
+Posacenere Records,
+Tommaso Launaro,
+D’angelo,
+Scola,
+Enrico Dragoni,
 Watermarxxx
 </p>
 </div>
@@ -148,6 +148,29 @@ Watermarxxx
 
 </br>
 
+<div style="background-color: #000; color: #fff; width: 100vw" class="animate__animated">
+<h2 class="display-6 fw-bold h2 py-3" id="masterclass">Masterclass</h2>
+</div>
+</br>
+
+
+
+<div class="container-fluid">
+    <div class="justify-content-center row">
+        <div class="col col-auto col-lg-8 px-16">
+            <p class="lead" style="text-align: left">
+I am offering in-person, in-depth, expert-led masterclass sessions in mixing and mastering in our studios Studio680Hz.
+My Masterclass provide a deep dive into the world of professional audio engineering, tailored for various industries and needs. </br></br>
+• Learn <b>Mastering for Digital and Vinyl Distribution</b>, ensuring your tracks are optimized for streaming platforms and physical formats. </br>
+• Elevate your <b>Mixing skills</b> to create high-quality professional recordings and soundscapes. </br>
+• <b>Mixing and Mastering for the Film Industry</b>, where sound design plays a critical role in storytelling. </br>
+• Learn <b>Audio Engineering</b> for <b>Advertisement and Documentaries</b>, teaching you how to create impactful, clear audio for media. </br>
+• Discover <b>Studio Recording Techniques</b>, whether it's for music, <b>Voiceover Recording</b>, or <b>Podcast Post-Production</b>, ensuring a polished final product. </br>
+</p>
+</div>
+</div>
+</div>
+</br>
 
 <div style="background-color: #000; color: #fff; width: 100vw" class="animate__animated">
 <h2 class="display-6 fw-bold h2 py-3" id="services">Services</h2>
@@ -189,7 +212,7 @@ Watermarxxx
 
 </br>
 
-<h2> 
+<h2>
 <b>
 
 [info@michelemucci.net](mailto:info@michelemucci.net)
