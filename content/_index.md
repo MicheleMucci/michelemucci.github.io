@@ -159,7 +159,7 @@ Watermarxxx
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-8 px-16">
             <p class="lead" style="text-align: left">
-I am offering in-person, in-depth, expert-led masterclass sessions in mixing and mastering in our [680Hz studios](https://680.studio).
+I am offering in-person, in-depth, expert-led masterclass sessions in mixing and mastering in our <a href="https://680.studio">680Hz studios</a>.
 My Masterclass provides a deep dive into the world of professional audio engineering, tailored for various industries and needs. </br></br>
 • Learn <b>Mastering for Digital and Vinyl Distribution</b>, ensuring your tracks are optimized for streaming platforms and physical formats. </br>
 • Elevate your <b>Mixing skills</b> to create high-quality professional recordings and soundscapes. </br>
